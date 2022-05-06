@@ -2,6 +2,8 @@
   "name": "ts-proto-pnpm-issue",
   "version": "1.0.0",
   "dependencies": {
+    "long": "4.0.0",
+    "protobufjs": "6.11.2",
     "typescript": "4.6.4"
   },
   "engines": {
