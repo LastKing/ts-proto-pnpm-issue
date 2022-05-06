@@ -1,0 +1,12 @@
+{
+  "name": "ts-proto-pnpm-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "4.6.4"
+  },
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7.0.0"
+  },
+  "packageManager": "pnpm@7.0.0"
+}
